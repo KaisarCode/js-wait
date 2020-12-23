@@ -1,6 +1,6 @@
 {
   "name": "kc-wait",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[js] Wait miliseconsd and exec.",
   "main": "index.js",
   "repository": {
